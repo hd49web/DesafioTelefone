@@ -1,0 +1,15 @@
+E:\Dio Carrefour\C#\Dioprojetotelefone\DesafioTelefone\bin\Debug\net6.0\DesafioTelefone.exe
+E:\Dio Carrefour\C#\Dioprojetotelefone\DesafioTelefone\bin\Debug\net6.0\DesafioTelefone.deps.json
+E:\Dio Carrefour\C#\Dioprojetotelefone\DesafioTelefone\bin\Debug\net6.0\DesafioTelefone.runtimeconfig.json
+E:\Dio Carrefour\C#\Dioprojetotelefone\DesafioTelefone\bin\Debug\net6.0\DesafioTelefone.dll
+E:\Dio Carrefour\C#\Dioprojetotelefone\DesafioTelefone\bin\Debug\net6.0\DesafioTelefone.pdb
+E:\Dio Carrefour\C#\Dioprojetotelefone\DesafioTelefone\obj\Debug\net6.0\DesafioTelefone.csproj.AssemblyReference.cache
+E:\Dio Carrefour\C#\Dioprojetotelefone\DesafioTelefone\obj\Debug\net6.0\DesafioTelefone.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dio Carrefour\C#\Dioprojetotelefone\DesafioTelefone\obj\Debug\net6.0\DesafioTelefone.AssemblyInfoInputs.cache
+E:\Dio Carrefour\C#\Dioprojetotelefone\DesafioTelefone\obj\Debug\net6.0\DesafioTelefone.AssemblyInfo.cs
+E:\Dio Carrefour\C#\Dioprojetotelefone\DesafioTelefone\obj\Debug\net6.0\DesafioTelefone.csproj.CoreCompileInputs.cache
+E:\Dio Carrefour\C#\Dioprojetotelefone\DesafioTelefone\obj\Debug\net6.0\DesafioTelefone.dll
+E:\Dio Carrefour\C#\Dioprojetotelefone\DesafioTelefone\obj\Debug\net6.0\refint\DesafioTelefone.dll
+E:\Dio Carrefour\C#\Dioprojetotelefone\DesafioTelefone\obj\Debug\net6.0\DesafioTelefone.pdb
+E:\Dio Carrefour\C#\Dioprojetotelefone\DesafioTelefone\obj\Debug\net6.0\DesafioTelefone.genruntimeconfig.cache
+E:\Dio Carrefour\C#\Dioprojetotelefone\DesafioTelefone\obj\Debug\net6.0\ref\DesafioTelefone.dll
